@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <com.github.islamkhsh.CardSliderViewPager
+        android:id="@+id/viewPager"
+        android:layout_width="match_parent"
+        android:layout_height="600dp"
+        app:auto_slide_time="3"
+        app:cardSlider_otherPagesWidth="24dp"
+        app:cardSlider_pageMargin="12dp"
+        app:cardSlider_smallAlphaFactor="0.5"
+        app:cardSlider_smallScaleFactor="0.9"
+        app:cardSlider_indicator="@id/indicator" />
+
+    <com.github.islamkhsh.CardSliderIndicator
+        android:id="@+id/indicator"
+        android:layout_width="50dp"
+        android:layout_height="10dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="12dp"
+        app:indicatorsToShow="5" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/gettingstarted"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#3F1364"
+        android:text="Getting Started"
+        android:textColor="@color/white"
+        android:paddingHorizontal="20dp"
+        android:layout_marginTop="10dp"/>
+
+</LinearLayout>

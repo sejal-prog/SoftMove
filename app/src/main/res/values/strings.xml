@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Softmove</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="yoga_desc">Helps in improving balance, flexibility, and range of motion, reduce stress and anxiety for individuals with Parkinson disease</string>
+    <string name="Streching_desc">Helps in improving balance, flexibility, and range of motion, reduce stress and anxiety for individuals with Parkinson disease</string>
+
+    <string name="tfe_pe_request_permission">This app needs camera permission.</string>
+    <string name="tfe_pe_tv_score">Score: %.2f</string>
+    <string name="tfe_pe_tv_model">Model: Movenet Thunder </string>
+    <string name="tfe_pe_tv_fps">Fps: %d</string>
+    <string name="tfe_pe_tv_device">Device: </string>
+    <string name="tfe_pe_tv_classification_value">- %s</string>
+    <string name="tfe_pe_tv_pose_classification">Pose Classification</string>
+    <string name="tfe_pe_tv_tracking">Tracker: </string>
+    <string name="tfe_pe_gpu_error">Movenet MultiPose does not support GPU. Fallback to CPU.</string>
+    <string-array name="tfe_pe_models_array">
+        <item>Movenet Lightning</item>
+        <item>Movenet Thunder</item>
+        <item>Movenet MultiPose</item>
+        <item>Posenet</item>
+    </string-array>
+
+    <string-array name="tfe_pe_device_name">
+        <item>CPU</item>
+        <item>GPU</item>
+        <item>NNAPI</item>
+    </string-array>
+
+    <string-array name="tfe_pe_tracker_array">
+        <item>Off</item>
+        <item>BoundingBox</item>
+        <item>Keypoint</item>
+    </string-array>
+
+    <string name="good_morning">Good morning!</string>
+    <string name="title_activity_meditation">MeditationActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="quote">Brilliant things happen in calm minds. Be calm. You\'re brilliant.</string>
+
+    <string name="meditation_desc">The act of meditation is being spacious.</string>
+    <string name="str_times_meditate">times meditated</string>
+    <string name="firebaseid">883691378743-j3rn3non4pmn833b12pavl5glj853sp6.apps.googleusercontent.com</string>
+    <string name="str_min_meditate">minutes meditated</string>
+    <string name="str_times_breathe">times done breathing exercise</string>
+    <string name="str_min_breathe">minutes done breathing exercise</string>
+
+    <string name="str_min_Yoga">Seconds done yoga</string>
+    <string name="str_times_Yoga">times done Yoga exercise</string>
+    <string name="str_times_Stretching">times done stretching exercise</string>
+    <string name="str_min_stretching">Seconds done stretching exercise</string>
+
+    <string name="about_us">Welcome to Softmove, your ultimate solution for addressing body stiffness and tracking your progress towards a healthier, more flexible body. We are an innovative AI-powered application dedicated to helping individuals overcome the challenges of stiffness, improve their flexibility, and maintain a record of their wellness journey.
+At Softmove, we understand the importance of a supple body in achieving overall well-being. Whether you are an athlete, a fitness enthusiast, or someone seeking relief from daily stiffness, our goal is to empower you with the tools and guidance to enhance your flexibility and lead a more active, pain-free life.</string>
+
+    <string name="str_motivate">You are doing great. Go ahead!!</string>
+    <string name="breathing_desc">Breathing is the greatest pleasure in life.</string>
+
+    <string-array name="motivating_quotes">
+        <item>"Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill</item>
+        <item>"The secret of getting ahead is getting started." - Mark Twain</item>
+        <item>"Believe you can and you're halfway there." - Theodore Roosevelt</item>
+        <!-- Add more quotes here -->
+    </string-array>
+
+
+    <string name="str_start">Start</string>
+    <string name="str_end">Stop</string>
+    <string-array name="minutes">
+        <item>20:00 minutes</item>
+        <item>10:00 minutes</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer-array name="Sliderimages">
+        <item>@drawable/sliding_img1</item>
+        <item>@drawable/sliding_img2</item>
+        <item>@drawable/sliding_img3</item>
+    </integer-array>
+
+    <string-array name="Slidertitles">
+        <item>Ai Integrated Sessions</item>
+        <item>Personalized Tracker</item>
+        <item>Smart Cognitive Trainings</item>
+    </string-array>
+
+    <string-array name="SliderDesc">
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Faucibus dis nunc felis massa laoreet quis.</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Faucibus dis nunc felis massa laoreet quis.</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Faucibus dis nunc felis massa laoreet quis.</item>
+    </string-array>
+</resources>

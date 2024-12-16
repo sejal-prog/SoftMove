@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "360206970159",
+    "project_id": "softmove-bb2c2",
+    "storage_bucket": "softmove-bb2c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360206970159:android:3368b0a7939189033bc5da",
+        "android_client_info": {
+          "package_name": "com.example.softmove"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360206970159-fr5bbl602o8h30v5og983ai1d2048o9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbVGFvdnRfKMSTdCzSPQIP4LOP9YHmKTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360206970159-fr5bbl602o8h30v5og983ai1d2048o9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
