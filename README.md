@@ -2,4 +2,6 @@ The motivation behind using AI applications, specifically the Movenet pose detec
 
 Patients with Parkinson’s disease often struggle with executing exercises correctly due to motor impairments. AI applications using Movenet can provide real-time feedback during exercise sessions. By tracking the patient’s movements, the system can alert them to incorrect postures or movements, helping them make the necessary adjustments and ensuring they perform the exercises correctly.
 
-Overall, the motivation behind AI applications for detecting body stiffness in Parkinson’s disease using Movenet pose detection model is to enhance the precision and effectiveness of exercises, enable personalized treatment, improve access to care, and provide valuable insights for better management of the condition.<img width="350" alt="Screenshot 2025-01-01 at 21 50 50" src="https://github.com/user-attachments/assets/040600a8-4b84-47e8-9e68-96c92fbbd942" />
+Overall, the motivation behind AI applications for detecting body stiffness in Parkinson’s disease using Movenet pose detection model is to enhance the precision and effectiveness of exercises, enable personalized treatment, improve access to care, and provide valuable insights for better management of the condition.
+
+<img width="350" alt="Screenshot 2025-01-01 at 21 50 50" src="https://github.com/user-attachments/assets/040600a8-4b84-47e8-9e68-96c92fbbd942" />
